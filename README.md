@@ -25,6 +25,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### インターン
+#### 株式会社Anti-Pattern
+- 2023/08~
+- Next.js, React, TypeScript, Laravel
+- 自社のコーポレートサイトの作成や受諾開発を行った
+
+#### 株式会社セプテーニ・インキュベート
+- 2023/08~2024/04
+- Next.js, React, TypeScript, graphql
+- [Ocean Dict](https://www.ocean-dict.com/ja)の開発を行った
+
+#### 株式会社LayerX
+- 2024/08/01~2024/08/30
+- Next.js, React, TypeScript, Go, graphql
+- バクラクシリーズのプロダクト開発を行った
 
 ### 制作物
 #### 就活エージェント比較サイト(就活エージェントSaaS)
@@ -45,3 +60,16 @@ Here are some ideas to get you started:
 2. より同期で仲良くなる
 
 - [リポジトリ](https://github.com/kazuki1023/miniHackathon-template)
+
+
+#### 「登録くん」
+- google chrome拡張機能
+- 就活等で様々な企業様がマイページやメールにて面接時間を送ってくる
+- それらをgoogleカレンダーで一元管理していた
+- その際、毎回手動で入力するのがめんどくさかった...
+
+1. 面接時間の情報をスクショする
+2. スクショした画像を拡張機能にドラッグ＆ドロップ
+3. 画像から時間や内容を読み取り、googleカレンダーの予定登録画面に遷移し登録できる
+
+- [リポジトリ](https://github.com/kazuki1023/imagetocalendar)
