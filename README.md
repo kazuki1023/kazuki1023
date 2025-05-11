@@ -41,6 +41,12 @@ Here are some ideas to get you started:
 - Next.js, React, TypeScript, Go, graphql
 - バクラクシリーズのプロダクト開発を行った
 
+#### 株式会社LayerX
+- 2024/12/16 ~
+- Next.js、React、Typescript, Go, graphql
+- 自社営業支援ツールSalesportalの開発を行う
+  - [【役員直下】LayerXで自社サービス開発インターンやってます](https://note.com/kazu_layerx/n/n90929f25c8a8)
+
 ### 制作物
 #### 就活エージェント比較サイト(就活エージェントSaaS)
 - 数ある就活エージェントから自分にあう就活エージェントサイトを選んで申し込みできる。
