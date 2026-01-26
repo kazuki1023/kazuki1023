@@ -38,14 +38,21 @@ Here are some ideas to get you started:
 
 #### 株式会社LayerX
 - 2024/08/01~2024/08/30
-- Next.js, React, TypeScript, Go, graphql
+- Next.js, React, TypeScript, Go, graphql, gRpc
 - バクラクシリーズのプロダクト開発を行った
 
 #### 株式会社LayerX
-- 2024/12/16 ~
+- 2024/12/16 ~ 2025/07/11
 - Next.js、React、Typescript, Go, graphql
 - 自社営業支援ツールSalesportalの開発を行う
   - [【役員直下】LayerXで自社サービス開発インターンやってます](https://note.com/kazu_layerx/n/n90929f25c8a8)
+- バクラクシリーズのプロダクト開発を行った
+
+
+#### 株式会社LayerX
+- 2025/10/01 ~ 2025/12/26
+- Vue.js、Typescript, Go, graphql, gRpc
+- バクラクシリーズのプロダクト開発を行った
 
 ### 制作物
 #### 就活エージェント比較サイト(就活エージェントSaaS)
@@ -79,3 +86,22 @@ Here are some ideas to get you started:
 3. 画像から時間や内容を読み取り、googleカレンダーの予定登録画面に遷移し登録できる
 
 - [リポジトリ](https://github.com/kazuki1023/imagetocalendar)
+
+
+#### E=Love【えらぶ】 ~新しい日程調整アプリ~
+
+- 「イベントという目的に時間を割きたい」がアンケートに回答したり、日程を決めたりが発生する
+- 手段のせいで目的について考える時間が少なくなる
+
+- イベントごとにそのイベントに特化した入力フォームやgoogleカレンダーの連携による回答の自動化などができる
+
+- [リポジトリ](https://github.com/kazuki1023/auto-save-ph7)
+
+
+
+#### 麻雀AI(制作中)
+
+- 従来の麻雀AIは「この状況で何を切ればいいか」を教えてくれるが「なんでそれを切ったほうがいいのか」の理由や「なんでその期待値なの？」と言ったことがわからなかった
+- 牌譜の写真を撮影し、そこから何を切ればいいか等を教えてくれるアプリ
+
+- [リポジトリ](https://github.com/kazuki1023/majiang-ai-beta)
