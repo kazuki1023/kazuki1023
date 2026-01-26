@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 - [リポジトリ](https://github.com/kazuki1023/imagetocalendar)
 
 
-#### E=Love【えらぶ】 ~新しい日程調整アプリ~
+#### E=Love【えらぶ】 ~ 新しい日程調整アプリ ~
 
 - 「イベントという目的に時間を割きたい」がアンケートに回答したり、日程を決めたりが発生する
 - 手段のせいで目的について考える時間が少なくなる
